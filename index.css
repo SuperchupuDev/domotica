@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    font-size: 15px;
+}
+
+img {
+  user-select: none;
+}
+
+p {
+  text-align: justify;
+  margin: 0 auto;
+  max-width: 40%;
+}
